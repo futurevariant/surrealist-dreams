@@ -13,7 +13,7 @@ GND on the long header is not connected as the Arduino does not power the relay.
 
 
 
-#Wemos Board
+# Wemos Board
 
 The image diagram dippy.png shows the various dip switch combinations for programming the board
 
